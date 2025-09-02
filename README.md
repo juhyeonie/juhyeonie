@@ -29,5 +29,11 @@
 💬 *“It is what it is.”*  
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/829284615339900979?theme=dark)](https://discord.com/users/829284615339900979)
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/829284615339900979?bg=37353E&borderRadius=10&hideDecoration=true&idleMessage=%F0%9F%8C%99%20Currently%20AFK%2C%20will%20be%20back%20soon...&theme=dark)](https://discord.com/users/829284615339900979)
+
+</div>
+
 
