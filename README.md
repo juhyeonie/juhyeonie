@@ -28,3 +28,6 @@
 
 💬 *“It is what it is.”*  
 
+---
+[![Discord Presence](https://lanyard.cnrad.dev/api/829284615339900979?theme=dark)](https://discord.com/users/829284615339900979)
+
