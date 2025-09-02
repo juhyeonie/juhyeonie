@@ -1,5 +1,5 @@
 <!-- Banner -->
-# 👋 Hi, I'm Justine Pelgone  
+# 👋 Hi, I'm Justine Pelgone ![Visitor Count](https://komarev.com/ghpvc/?username=JustinePelgone&label=Profile%20Views&color=0e75b6&style=flat)
 
 🎓 2nd Year **BS Computer Science Student**  
 💻 Aspiring **Front-End Developer** | Beginner in Programming  
