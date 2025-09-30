@@ -19,13 +19,6 @@
 
 ---
 
-## 📌 Projects Highlight  
-- 🔢 **VB.NET Calculator** – with mouse + keyboard support  
-- 🐶 **PurrfectPaws Website** – breeds & foods of cats and dogs in the Philippines  
-- 🔐 **Java Swing Login UI** – Staff/Admin login with clean design  
-
----
-
 💬 *“It is what it is.”*  
 
 ---
